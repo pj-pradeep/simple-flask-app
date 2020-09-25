@@ -1,0 +1,26 @@
+# Ignore Mac system files
+.DS_store
+
+### VisualStudioCode ###
+.vscode
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env_file
+.env
+.venv
+env/
+venv/
+
+# pyenv
+.python-version
